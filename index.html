@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
-    <header class="main-header">
-        <div class="wc-container">
-            <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <h2>{{ site.description }}</h2>
-            {% include header-links.html %}                
-        </div>
-    </header>
+<header class="main-header">
+    <div class="wc-container">
+        <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <h2>{{ site.description }}</h2>
+        {% include header-links.html %}                
+    </div>
+</header>
+<!-- This is the post part -->
 <div id="home" class="page-content wc-container">
 	<div class="posts">
-  		{% for post in site.posts limit:10 %}
+  		{% for post in site.posts %}
   			<div class="post">          
   				<p>
-                    this is where the post goes:
 	  				{{ post }}	
   				</p>
   			</div>

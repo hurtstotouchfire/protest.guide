@@ -1,2 +1,14 @@
-{% if site.harmony.show_disclaimer %}      
-{% endif %}
+<footer class="main-footer">
+            <div class="wc-container">
+                <div class="column one">
+                    {% include footer-links.html %}                    
+                </div>
+                <br><br><br><br><br><br><br>
+                <div class="column two">
+                    {% include social.html %}
+                </div>
+            </div>
+            <p class="wc-container disclaimer">
+                {% include footer.html %}
+            </p>
+    </footer>
