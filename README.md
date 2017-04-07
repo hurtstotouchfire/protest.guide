@@ -35,6 +35,7 @@ Harmony is a responsive jekyll theme.
 5. Run `bundle install`
 6. Edit the _config.yml on root directory. Change `url` property to to 
 `http://127.0.0.1:4000` since you are going to run on localhost.
+![url,baseurl,posts](https://actsecure.github.io/protest.guide/assets/images/what-is-a-baseurl.jpg "Base Url")
 7. Run the jekyll server by having: `jekyll serve --baseurl ''` or `rake preview`   
 
 Point your browser to [http://localhost:4000](http://localhost:4000).
