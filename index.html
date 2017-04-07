@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<body class="{{ site.harmony.basetheme }}">
+        <header class="main-header">
+            <div class="wc-container">
+                <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+                <h2>{{ site.description }}</h2>
+                {% include header-links.html %}                
+            </div>
+        </header>
+</body>
 <div id="home" class="page-content wc-container">
 	<div class="posts">
   		{% for post in site.posts limit:10 %}
