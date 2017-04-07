@@ -3,7 +3,7 @@ description: "THIS IS DESCRIPTION"
 about: "THIS IS ABOUT"
 location: "Your Region, Country"
 email: your-email@example.com
-baseurl: "/material-theme"
+baseurl: "/"
 
 url: "http://actsecure.org/protest.guide/" # replace by your site's url
 twitter_username: actsecure
