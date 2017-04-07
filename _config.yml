@@ -5,7 +5,8 @@ baseurl: /protest.guide
 
 # Site live URL
 url: actsecure.github.io
-
+name: Protest.Guide
+description: A helpful guide to protesting safely
 # Localhost 
 # url: http://127.0.0.1:4000  
 
@@ -13,19 +14,16 @@ url: actsecure.github.io
 harmony:
   name: Protest.Guide
   # Little description about your site
-  description: A helpful guide for protesting
+  description: A helpful guide to protesting safely
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
-  meta_description: > # 
-   Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Sourced on Github - 
-   https://github.com/gayanvirajith/harmony
+  meta_description: > Help! I am trapped in the matrix!
   basetheme: darken # pre defined thmes are darken, blue-water, redish, theme-base-01.
-  author: # Author details
+  author: 
     name: 
-    email: 
-    url: 
+    email: actsecure@protonmail.com 
+    url: actsecure.org
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: 
@@ -39,7 +37,7 @@ harmony:
     dribble: 
     pinterest: 
   # Toggle disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
 
 # Conversion / Build settings 
 markdown:    kramdown

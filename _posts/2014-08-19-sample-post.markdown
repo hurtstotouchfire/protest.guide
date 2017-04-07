@@ -13,6 +13,8 @@ Just a sample post to show some of the *typography* elements supported from
 
 ___
 
+![Image](http://placekitten.com/g/900/300)
+
 A blockquote:
 
 > Donec in mollis eros, nec rutrum turpis. **Curabitur** sem elit, semper nec volutpat quis, laoreet et sapien. In felis erat, rhoncus sed pellentesque mollis, tincidunt quis elit.
