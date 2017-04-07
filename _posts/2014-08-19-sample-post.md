@@ -1,6 +1,6 @@
 ---
 layout: post
-publish: false
+published: false
 ---
 
 # No War in Syria or whatever
