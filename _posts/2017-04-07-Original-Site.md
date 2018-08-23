@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: ProtestGuide
 ---
 <h1><em>[PROTEST TITLE]</em></h1>
