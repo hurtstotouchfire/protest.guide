@@ -9,6 +9,14 @@
     border: none;
 }
 
+.main-header, .page-content {
+    padding: 0 !important;
+}
+
+.h1 {
+    text-align: left !important;
+}
+
 /* Utilities */
 
 .u-embiggen {

@@ -3,9 +3,9 @@ layout: default
 ---
 <header class="main-header">
     <div class="wc-container">
-        <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-        <h2>{{ site.description }}</h2>
-        {% include header-links.html %}                
+      {% include header-links.html %}
+      <h1 class="h1">{{ site.name }}</h1>
+      <blockquote>{{ site.description }}</blockquote>
     </div>
 </header>
 <!-- This is the post part -->
