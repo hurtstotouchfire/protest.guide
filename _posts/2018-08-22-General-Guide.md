@@ -49,7 +49,7 @@ title: ProtestGuide
 
 Call the NLG! Write this number on your body, somewhere that is covered by clothing:
 
-<center><pre>617-227-7335</pre></center>
+<center><pre class="u-embiggen">617-227-7335</pre></center>
 
 <a href="#top"><small>Back to top...</small></a>
 

@@ -8,3 +8,9 @@
 .nav-item:last-child {
     border: none;
 }
+
+/* Utilities */
+
+.u-embiggen {
+    font-size: 24px;
+}
