@@ -1,0 +1,10 @@
+/* These styles were added after forking the theme, but have not been incorporated into the scss. */
+
+.nav-item {
+    border-right: 1px solid #eee;
+    padding: 2px 12px 0 7px;
+}
+
+.nav-item:last-child {
+    border: none;
+}
