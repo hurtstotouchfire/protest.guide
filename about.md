@@ -14,13 +14,4 @@ This is a demonstration of possible solutions to several protest-related problem
 
 3. Act as a moderated news source of information directly relevant to protestors.
 
-#### Notes:
-- We pulled content from [here](http://www.urban75.org/mayday/safety.html) but ideally, content would be customized for a specific protest.
-- *Idea:* Add a section that's a kind of timestamped newsfeed
-- ALL content on one single page. Perhaps the "newsfeed" can go on a second.
-- CSS needs much tweaking.
-- Site must not use any javascript.
-- Site must be accessible to screen readers.
-- *Idea:* Provide a "download" link that will save this info to disk in case of cell signal blocking / tower overload.
-
 
